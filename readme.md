@@ -23,5 +23,7 @@ Log in to access the dashboards and use the available functionalities.
 
 6.Features:
 Sponsor Dashboard: Manage and create campaigns.
+
 Influencer Dashboard: View and accept ad requests.
+
 Campaign Management: Sponsors can create campaigns, and influencers can apply to them.
