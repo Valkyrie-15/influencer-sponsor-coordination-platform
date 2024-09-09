@@ -22,6 +22,7 @@ After registration, you will be redirected to the login page.
 Log in to access the dashboards and use the available functionalities.
 
 6.Features:
+
 Sponsor Dashboard: Manage and create campaigns.
 
 Influencer Dashboard: View and accept ad requests.
